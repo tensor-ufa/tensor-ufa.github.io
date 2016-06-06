@@ -1,0 +1,58 @@
+# Site wide configuration
+
+title: Yaroslavl Frontend Meetup
+locale: ru_RU
+description: Место встречи Ярославских frontend-разработчиков
+logo: site-logo.svg
+search: true
+url: http://yarfrontend.ru/
+url: http://yarfrontend.github.io/
+url: http://localhost:4000/
+url:
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Yaroslavl Frontend Meetup
+  avatar: bio-photo.jpg
+  email: mail@yarfrontend.ru
+  disqus-shortname: yfrontend
+  twitter: yarfrontend
+  facebook: groups/747177005310144/
+  vk: club62494748
+  github:
+  stackexchange: 
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: u/0/communities/112603924039516486456
+    analytics: UA-57195678-1
+    verify: XWSk1ZeYo1J09zaC13q5DFaUDHPNqLd48WPm8RlqcpY
+    ad-client: ca-pub-0572589679533084
+    ad-slot: 4947240443
+  bing-verify:
+  yandex-verify: 5817141bbc5b0790
