@@ -15,6 +15,11 @@ comments: true
       {% else %}
       <img src="{{ site.url }}/images/{{ author.avatar }}" class="bio-photo" alt="{{ author.name }} bio photo"></a>
       {% endif %}
+      {% if author.vk %}
+      <span>
+        <a href="http://vk.com/{{ author.vk }}" title="{{ author.vk }} on vk.com" target="_blank"><i class="fa fa-vk-square"></i> {{ author.vk }}</a>
+      </span>
+      {% endif %}
       {% if author.twitter %}
       <span class="social-share-twitter">
         <a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-twitter-square"></i> {{ author.twitter }}</a>
