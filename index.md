@@ -38,12 +38,12 @@ comments: true
 Центральный вход.
 Маршрут от остановки общественного транспорта указан на карте.
 
-Места для парковки автомобилей указаны на карте зеленым цветом. Припарковаться можно либо на пустыре за зданием, 
-либо вдоль здания под "навесом". Пожалуйста, не паркуйтесь на тротуаре. 
+Места для парковки автомобилей указаны на карте зеленым цветом. Припарковаться можно либо на парковке, 
+либо перед 8м корпусом УГАТУ. 
 
-Контактные телефоны: +7 905 136-22-39 Ирина, +7 920 1000-282 Олег
+Контактные телефоны: +7 905 136-22-39 Ирина, +7 917 445 99 65 Антон
 
-<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=OaSCkjqQ9MoOIwGeLlFWJiM9GD6Ae8KK&height=450"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=07cEbZAuz88f1MHBau5pUv2p-tKHd60J&width=630&height=630&lang=ru_RU&sourceType=constructor&scroll=true"></script>
 
 <!--
 <ul class="post-list">
