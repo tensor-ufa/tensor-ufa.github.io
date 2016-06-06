@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1 апреля 2016
+title: 23 июня 2016
 excerpt: 
 comments: true
 ---
