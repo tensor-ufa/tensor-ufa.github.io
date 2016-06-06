@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Масштабирование мобильныйх прилоджений с использованием dependency injection"
+title: "Масштабирование мобильных приложений с использованием dependency injection"
 modified:
 categories: talks
 author: potykov_vitaliy
