@@ -53,8 +53,6 @@ comments: true
 </ul>
 -->
 
-[register]: https://yarfrontend.timepad.ru/event/311687/
+[register]: https://tensor-ufa.timepad.ru/event/339489/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
-[vote-oleg]: /blog/generators-or-gpu/
-[vote-pavel]: /blog/derby-or-loadspeed/
