@@ -5,7 +5,7 @@ modified:
 categories: talks
 author: potykov_vitaliy
 excerpt:
-tags: [mobileapps]
+tags: [mobile]
 image:
   feature:
 talk: meetup_u1
