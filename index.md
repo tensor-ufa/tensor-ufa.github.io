@@ -10,7 +10,15 @@ comments: true
 
 <ul class="post-list">
 {% for post in site.categories.talks %}
-   post
+  {% if post.author %}
+    {% capture authorslist %}
+      {% for a in post.author %}
+        {% assign author = site.data.authors[a] %}
+        {% if author %} {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}{% unless forloop.last %};{% endunless %}
+      {% endfor %}
+    {% endcapture %}
+  {% endif %}
+  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ authorslist }}</a></li>
 {% endfor %}
 </ul>
 
