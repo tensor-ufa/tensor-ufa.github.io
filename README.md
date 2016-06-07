@@ -1,5 +1,5 @@
-# Yaroslavl Frontend Meetup
+# Ufa Tensor Forum
 
-Ежемесячная встреча веб-разработчиков проходящая в г. Ярославле.
+Ежемесячная встреча разработчиков проходящая в г. Уфа.
 
-[http://yarfrontend.ru](http://yarfrontend.ru/)
+[http://conf.tensor.ru](http://conf.tensor.ru/)

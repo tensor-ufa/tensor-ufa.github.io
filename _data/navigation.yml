@@ -1,13 +1,10 @@
 # Site navigation links
 
-- title: 01/04/2016
+- title: 23/06/2016
   url: /
 
 - title: О проекте
   url: /about/
-
-- title: Блог
-  url: /blog/
 
 - title: Люди
   url: /people/
@@ -15,11 +12,9 @@
 - title: Встречи
   url: /events/
 
-- title: Послушать
-  url: https://yarfrontend.timepad.ru/event/311687/
+- title: Регистрация
+  url: https://tensor-ufa.timepad.ru/event/339489/
 
 - title: Выступить
   url: /speakers/
 
-- title: Рассылка
-  url: http://bit.ly/yfm-subscribe
