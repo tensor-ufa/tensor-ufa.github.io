@@ -4,25 +4,25 @@ khamitov_kirill:
   name: Хамитов Кирилл
   email: hekusoid@gmail.com
   avatar: hekus.png
-  company: Тензор
+  company: Тензор Уфа
   
 bogatirev_misha:
   name: Богатырев Михаил
   email: ma.bogatyrev@tensor.ru
   avatar: misha.png
-  company: Тензор
+  company: Тензор Уфа
 
 potykov_vitaliy:
   name: Потяков Виталий
   email: vs.potyakov@tensor.ru
   avatar: vitaliy.png
-  company: Тензор
+  company: Тензор Уфа
 
 elifantiev_oleg:
   name: Олег Елифантьев
   email: oleg@elifantiev.ru
   avatar: olegas.jpg
-  company: Тензор
+  company: Тензор Ярославль
   twitter: oelifantiev
   github: Olegas
   bio: "Разработчик ядра веб-платформы в компании Тензор."
@@ -30,7 +30,7 @@ elifantiev_oleg:
 ershov_konst:
   name: Ершов Константин
   avatar: ershov_konst.png
-  company: Тензор
+  company: Тензор Ярославль
   twitter: konst_ershov
   bio: "В Тензоре занимался разработкой интерфейсных веб-компонентов. В настоящее время разрабатыает корпоративный сервис видеосвязи."
 
@@ -52,12 +52,12 @@ lizakuzhina:
 kolosovpavel:
   name: Колосов Павел
   avatar: kolosov.png
-  company: Тензор
+  company: Тензор Ярославль
 
 yarkinsergey:
   name: Яркин Сергей
   avatar: yarkin.jpg
-  company: Тензор
+  company: Тензор Ярославль
 
 kolyaj:
   name: Сиварев Николай
@@ -77,7 +77,7 @@ yajon:
 baevatm:
   name: Баева Татьяна
   avatar: baeva.jpg
-  company: Тензор
+  company: Тензор Ярославль
   twitter: BaevaTatyana
 
 andreysolomatin:
@@ -108,7 +108,7 @@ elenaivanova:
 
 artemoborevich:
   name: Артем Оборевич
-  company: Тензор
+  company: Тензор Ярославль
   avatar: oborevich.png
 
 sergeysergeev:
@@ -131,7 +131,7 @@ kokuykin:
 
 stetsyuk:
   name: Станислав Стецюк
-  company: Тензор
+  company: Тензор Ярославль
   bio: Руководитель подразделения мобильной разработки
   avatar: stetsyuk.jpg
 
@@ -151,9 +151,9 @@ force:
 dokuchaev:
   name: Сергей Докучаев
   avatar: sergey_dokucchaev.jpg
-  company: Тензор
+  company: Тензор Ярославль
 
 luss:
   name: Владимир Лусс
   avatar: luss.jpg
-  company: Тензор
+  company: Тензор Ярославль
