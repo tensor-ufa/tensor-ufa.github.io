@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "PostgreSQL. Оптимизация запросов или как мы приручали слонов"
+title: "PostgreSQL. Оптимизация запросов, или как мы приручали слонов"
 modified:
 categories: talks
 author: khamitov_kirill
