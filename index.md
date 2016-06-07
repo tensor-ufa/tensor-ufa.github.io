@@ -42,7 +42,7 @@ comments: true
 Места для парковки автомобилей указаны на карте зеленым цветом. Припарковаться можно либо на парковке, 
 либо перед 8м корпусом УГАТУ. 
 
-Контактные телефоны: +7 960 800 08 08 Ирина, +7 917 445 99 65 Антон
+Контактные телефоны: +7 960 800 08 08 Дарья
 
 <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=07cEbZAuz88f1MHBau5pUv2p-tKHd60J&width=630&height=630&lang=ru_RU&sourceType=constructor&scroll=true"></script>
 
