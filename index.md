@@ -18,7 +18,9 @@ comments: true
       {% endfor %}
     {% endcapture %}
   {% endif %}
+  {% if post.announce %}
   <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ authorslist }}</a></li>
+  {% endif %}
 {% endfor %}
 </ul>
 
