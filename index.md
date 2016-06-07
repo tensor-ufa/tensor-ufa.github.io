@@ -14,7 +14,7 @@ comments: true
     {% capture authorslist %}
       {% for a in post.author %}
         {% assign author = site.data.authors[a] %}
-        {% if author %} {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}{% unless forloop.last %};{% endunless %}
+        {% if author %}, {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}{% unless forloop.last %};{% endunless %}
       {% endfor %}
     {% endcapture %}
   {% endif %}
@@ -56,6 +56,6 @@ comments: true
 </ul>
 -->
 
-[register]: https://tensor-ufa.timepad.ru/event/339489/
+[register]: /register/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
