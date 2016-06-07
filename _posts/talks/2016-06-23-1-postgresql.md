@@ -9,7 +9,7 @@ tags: [postgresql]
 image:
   feature:
 talk: meetup_u1
-date: 2016-06-23
+date: 2016-06-06
 comments: true
 share: true
 announce: true 
