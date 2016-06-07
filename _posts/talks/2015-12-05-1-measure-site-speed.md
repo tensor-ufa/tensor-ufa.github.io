@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Загрузка страницы: Куда уходит время?"
+title: "Загрузка страницы: Куда уходит время"
 modified:
 categories: talks
 author: [baevatm, dokuchaev]

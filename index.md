@@ -14,12 +14,12 @@ comments: true
     {% capture authorslist %}
       {% for a in post.author %}
         {% assign author = site.data.authors[a] %}
-        {% if author %}, {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}{% unless forloop.last %};{% endunless %}
+        {% if author %} {{ author.name }}{% if author.company %}, {{ author.company }}{% endif %}{% endif %}{% unless forloop.last %};{% endunless %}
       {% endfor %}
     {% endcapture %}
   {% endif %}
   {% if post.announce %}
-  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} {{ authorslist }}</a></li>
+  <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}, {{ authorslist }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
@@ -29,7 +29,7 @@ comments: true
 
 Первая встреча пройдет в **четверг**, 23 июня 2016 в 19:00. 
 
-На все доклады отведено приблизительно 2 часа. Между докладами запланирован 15-минутный кофе-брейк, чтобы вы могли перекусить. А после докладов состоится after-party, где можно будет пообщаться на свободные темы — не расходитесь :)
+На все доклады отведено приблизительно 2 часа. Между докладами запланирован 10-минутный кофе-брейк, чтобы вы могли перекусить. А после докладов состоится after-party, где можно будет пообщаться на свободные темы — не расходитесь :)
 
 Чтобы мы могли оценить количество участников, пожалуйста, [зарегистрируйтесь][register].
 

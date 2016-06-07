@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Упрощаем разработку с директивами AngularJS."
+title: "Упрощаем разработку с директивами AngularJS"
 modified:
 categories: talks
 author: kokuykin

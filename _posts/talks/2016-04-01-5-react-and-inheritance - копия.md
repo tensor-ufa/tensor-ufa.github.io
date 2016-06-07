@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "Декомпозиция и наследование компонентов в React."
+title: "Декомпозиция и наследование компонентов в React"
 modified:
 categories: talks
 author: lexaguskov
