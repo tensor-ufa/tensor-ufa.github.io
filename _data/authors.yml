@@ -5,22 +5,18 @@ khamitov_kirill:
   email: hekusoid@gmail.com
   avatar: hekus.png
   company: Тензор
-  bio: "Руководитель направления биллинга в г. Уфа"
   
 bogatirev_misha:
   name: Богатырев Михайил
   email: ma.bogatyrev@tensor.ru
   avatar: misha.png
   company: Тензор
-  bio: "Ведущий инженер-программист, занимается телефонией."
 
 potykov_vitaliy:
   name: Потяков Виталий
   email: vs.potyakov@tensor.ru
   avatar: vitaliy.png
   company: Тензор
-  bio: "Руководитель направления мобильной разработкой в г. Уфа"
-
 
 elifantiev_oleg:
   name: Олег Елифантьев
