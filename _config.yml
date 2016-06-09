@@ -42,5 +42,7 @@ owner:
   linkedin: #username
   instagram: #username
   flickr: #username
+  google:
+    analytics: UA-78951182-1
   tumblr: #username
   bing-verify:
