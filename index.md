@@ -56,6 +56,6 @@ comments: true
 </ul>
 -->
 
-[register]: /register2/
+[register]: /register/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
