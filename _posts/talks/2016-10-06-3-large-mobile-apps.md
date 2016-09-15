@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "PostgreSQL. Оптимизация запросов, или как мы приручали слонов"
+title: "Разработка большого мобильного приложения: Архитектура и инфраструктура"
 modified:
 categories: talks
 author: potykov_vitaliy
