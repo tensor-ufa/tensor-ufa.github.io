@@ -50,4 +50,8 @@ meetup12:
   
 meetup_u1:
   date: 2016-06-23
-  finished:
+  finished: true
+  
+meetup_u2:
+  date: 2016-10-60
+  finished:  

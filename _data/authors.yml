@@ -18,6 +18,18 @@ potykov_vitaliy:
   avatar: vitaliy.png
   company: Тензор Уфа
 
+yakovlev_kirill:
+  name: Яковлев Кирилл
+  email: kv.yskovlev@tensor.ru
+  avatar: yakovlev.png
+  company: Тензор Уфа
+
+kazorez_alexander:
+  name: Казорез Александр
+  email: akazorez@yandex.ru
+  avatar: kazorez.png
+  company: Тензор Уфа
+
 elifantiev_oleg:
   name: Олег Елифантьев
   email: oleg@elifantiev.ru
