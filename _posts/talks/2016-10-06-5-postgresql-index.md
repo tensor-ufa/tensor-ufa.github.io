@@ -1,6 +1,6 @@
 ---
 layout: talk
-title: "PostgreSQL. Индексы, то что вы всегда хотели узнать, но боялись спросить"
+title: "PostgreSQL. Индексы: то, что вы всегда хотели узнать, но боялись спросить"
 modified:
 categories: talks
 author: khamitov_kirill
