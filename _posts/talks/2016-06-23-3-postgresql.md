@@ -17,7 +17,6 @@ video:
 slides: 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z6Z2NAgLrio" frameborder="0" allowfullscreen></iframe>
 
 **PostgreSQL. Почему он?**
 
@@ -35,3 +34,5 @@ slides:
 
 * Локализация и способы решения проблемных мест в запросах
 
+**Видео:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z6Z2NAgLrio" frameborder="0" allowfullscreen></iframe>
