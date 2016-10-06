@@ -13,7 +13,7 @@ date: 2016-06-06
 comments: true
 share: true
 announce: false 
-video: 
+video: https://www.youtube.com/watch?v=z6Z2NAgLrio
 slides: 
 ---
 
