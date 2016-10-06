@@ -13,10 +13,11 @@ date: 2016-06-06
 comments: true
 share: true
 announce: false 
-video: https://www.youtube.com/watch?v=z6Z2NAgLrio
+video: 
 slides: 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z6Z2NAgLrio" frameborder="0" allowfullscreen></iframe>
 
 **PostgreSQL. Почему он?**
 
