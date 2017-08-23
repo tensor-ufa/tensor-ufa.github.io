@@ -57,6 +57,6 @@ comments: true
 -->
 
 [register]: /register/
-[place]: /register/
+[place]: http://territory3000.ru/
 [tensor]: http://tensor.ru/
 [speakers]: /speakers/
