@@ -30,142 +30,161 @@ kazorez_alexander:
   avatar: kazorez.png
   company: Тензор Уфа
 
-elifantiev_oleg:
-  name: Олег Елифантьев
-  email: oleg@elifantiev.ru
-  avatar: olegas.jpg
-  company: Тензор Ярославль
-  twitter: oelifantiev
-  github: Olegas
-  bio: "Разработчик ядра веб-платформы в компании Тензор."
+gataullina_galiya:
+  name: Гатауллина Галия
+  email: ga.gataullina@tensor.ru
+  avatar: galiya.png
+  company: Тензор Уфа
+  
+kochetovskiy_artem:
+  name: Кочетовский Артем
+  email: an.kochetovskiy@tensor.ru
+  avatar: artem.png
+  company: Тензор Уфа
 
-ershov_konst:
-  name: Ершов Константин
-  avatar: ershov_konst.png
-  company: Тензор Ярославль
-  twitter: konst_ershov
-  bio: "В Тензоре занимался разработкой интерфейсных веб-компонентов. В настоящее время разрабатывает корпоративный сервис видеосвязи."
+vagurov_evgeniy:
+  name: Вагуров Евгений
+  email: es.vagurov@tensor.ru
+  avatar: vagurov.png
+  company: Тензор Екатеринбург  
+  
 
-izygin:
-  name: Никита Изыгин
-  avatar: rp.jpg
+# elifantiev_oleg:
+  # name: Олег Елифантьев
+  # email: oleg@elifantiev.ru
+  # avatar: olegas.jpg
+  # company: Тензор Ярославль
+  # twitter: oelifantiev
+  # github: Olegas
+  # bio: "Разработчик ядра веб-платформы в компании Тензор."
 
-lexaguskov:
-  name: Алексей Гуськов
-  avatar: lexaguskov.jpg
-  company: Ареал
-  twitter: lexaguskov
+# ershov_konst:
+  # name: Ершов Константин
+  # avatar: ershov_konst.png
+  # company: Тензор Ярославль
+  # twitter: konst_ershov
+  # bio: "В Тензоре занимался разработкой интерфейсных веб-компонентов. В настоящее время разрабатывает корпоративный сервис видеосвязи."
 
-lizakuzhina:
-  name: Елизавета Кужина
-  avatar: lizakuzhina.jpg
-  company: Ареал
+# izygin:
+  # name: Никита Изыгин
+  # avatar: rp.jpg
 
-kolosovpavel:
-  name: Колосов Павел
-  avatar: kolosov.png
-  company: Тензор Ярославль
+# lexaguskov:
+  # name: Алексей Гуськов
+  # avatar: lexaguskov.jpg
+  # company: Ареал
+  # twitter: lexaguskov
 
-yarkinsergey:
-  name: Яркин Сергей
-  avatar: yarkin.jpg
-  company: Тензор Ярославль
+# lizakuzhina:
+  # name: Елизавета Кужина
+  # avatar: lizakuzhina.jpg
+  # company: Ареал
 
-kolyaj:
-  name: Сиварев Николай
-  avatar: kolyaj.png
-  company: razlozhi.ru
-  twitter: kolyaj
-  github: kolyaj
-  bio: Разработчик Яндекс.Метрики
+# kolosovpavel:
+  # name: Колосов Павел
+  # avatar: kolosov.png
+  # company: Тензор Ярославль
 
-yajon:
-  name: Владимир Павлов
-  avatar: yajon.jpg
-  company: kaknado.me
-  twitter: yajon
-  bio: Co-founder и CEO в <a href="http://kaknado.me">kaknado.me</a>
+# yarkinsergey:
+  # name: Яркин Сергей
+  # avatar: yarkin.jpg
+  # company: Тензор Ярославль
 
-baevatm:
-  name: Баева Татьяна
-  avatar: baeva.jpg
-  company: Тензор Ярославль
-  twitter: BaevaTatyana
+# kolyaj:
+  # name: Сиварев Николай
+  # avatar: kolyaj.png
+  # company: razlozhi.ru
+  # twitter: kolyaj
+  # github: kolyaj
+  # bio: Разработчик Яндекс.Метрики
 
-andreysolomatin:
-  name: Андрей Саломатин
-  avatar: solomatin.png
-  company: Productive Mobile
-  twitter: filipovskii
-  bio: "Разработчик веб- и мобильных приложений. Любит изучать языки программирования и парадигмы. Предпочитает стартапы зрелым компаниям, простые решения - универсальным, пробелы - табуляции. Слушатель и докладчик. С 2014 года занимается организацией митапа MoscowJS. Соведущий подкаста RadioJS."
+# yajon:
+  # name: Владимир Павлов
+  # avatar: yajon.jpg
+  # company: kaknado.me
+  # twitter: yajon
+  # bio: Co-founder и CEO в <a href="http://kaknado.me">kaknado.me</a>
 
-ruslankaymakov:
-  name: Руслан Каймаков
-  avatar: kaymakov.png
-  company: Rambler&Co
-  twitter: mrmoranxp
-  bio: "Руководитель отдела разработки клиентских приложений. Фанат оптимизации и автоматизации. Одинаково любит верстку и программирование."
+# baevatm:
+  # name: Баева Татьяна
+  # avatar: baeva.jpg
+  # company: Тензор Ярославль
+  # twitter: BaevaTatyana
 
-rusakovich:
-  name: Виктор Русакович
-  avatar: rusakovich.png
-  twitter: the_ghost_minsk
-  company: "GP software.travel"
-  bio: "Больше пяти лет разрабатывает веб-приложения. Работал над B2B и B2C частью известных авиа- и отельных мета-поисковиков. В настоящий момент участвует в разработке системы интернет-бронирования для крупнейшего Балтийского морского оператора. В свободное от работы время любит кататься на велосипеде, играет в футзал и бадминтон."
+# andreysolomatin:
+  # name: Андрей Саломатин
+  # avatar: solomatin.png
+  # company: Productive Mobile
+  # twitter: filipovskii
+  # bio: "Разработчик веб- и мобильных приложений. Любит изучать языки программирования и парадигмы. Предпочитает стартапы зрелым компаниям, простые решения - универсальным, пробелы - табуляции. Слушатель и докладчик. С 2014 года занимается организацией митапа MoscowJS. Соведущий подкаста RadioJS."
 
-elenaivanova:
-  name: Елена Иванова
-  twitter: liveldi90
-  avatar: liveldi90.jpg
+# ruslankaymakov:
+  # name: Руслан Каймаков
+  # avatar: kaymakov.png
+  # company: Rambler&Co
+  # twitter: mrmoranxp
+  # bio: "Руководитель отдела разработки клиентских приложений. Фанат оптимизации и автоматизации. Одинаково любит верстку и программирование."
 
-artemoborevich:
-  name: Артем Оборевич
-  company: Тензор Ярославль
-  avatar: oborevich.png
+# rusakovich:
+  # name: Виктор Русакович
+  # avatar: rusakovich.png
+  # twitter: the_ghost_minsk
+  # company: "GP software.travel"
+  # bio: "Больше пяти лет разрабатывает веб-приложения. Работал над B2B и B2C частью известных авиа- и отельных мета-поисковиков. В настоящий момент участвует в разработке системы интернет-бронирования для крупнейшего Балтийского морского оператора. В свободное от работы время любит кататься на велосипеде, играет в футзал и бадминтон."
 
-sergeysergeev:
-  name: Сергей Сергеев
-  company: Яндекс
-  twitter: gurugray
-  avatar: gurugray.png
-  bio: Разработчик интерфейсов, руководитель группы разработки поисковых интерфейсов в Симферополе. Интересуюсь проектной работой и инструментами взаимодействия в группе и автоматизацией процессов — системы контроля кода, системы менеджмента кода, continuous delivery и continuous integration. Рассказываю про Git и всё, что с ним связано.
+# elenaivanova:
+  # name: Елена Иванова
+  # twitter: liveldi90
+  # avatar: liveldi90.jpg
 
-nickolaysmirnov:
-  name: Николай Смирнов
-  company: "НПО Криста"
-  avatar: nickolaysm.png
-  bio: Руководитель отдела разработки ядра на Java. Многие годы по локоть в кровавом энтерпрайзе.
+# artemoborevich:
+  # name: Артем Оборевич
+  # company: Тензор Ярославль
+  # avatar: oborevich.png
 
-kokuykin:
-  name: Евгений Кокуйкин
-  company: Диасофт
-  avatar: kokuykin.png
+# sergeysergeev:
+  # name: Сергей Сергеев
+  # company: Яндекс
+  # twitter: gurugray
+  # avatar: gurugray.png
+  # bio: Разработчик интерфейсов, руководитель группы разработки поисковых интерфейсов в Симферополе. Интересуюсь проектной работой и инструментами взаимодействия в группе и автоматизацией процессов — системы контроля кода, системы менеджмента кода, continuous delivery и continuous integration. Рассказываю про Git и всё, что с ним связано.
 
-stetsyuk:
-  name: Станислав Стецюк
-  company: Тензор Ярославль
-  bio: Руководитель подразделения мобильной разработки
-  avatar: stetsyuk.jpg
+# nickolaysmirnov:
+  # name: Николай Смирнов
+  # company: "НПО Криста"
+  # avatar: nickolaysm.png
+  # bio: Руководитель отдела разработки ядра на Java. Многие годы по локоть в кровавом энтерпрайзе.
 
-filatov:
-  name: Александр Филатов
-  company: Akvelon Inc.
-  bio: Веб-разработчик в компании Akvelon, vendor в Microsoft
-  avatar: filatov.png
-  twitter: greybax
+# kokuykin:
+  # name: Евгений Кокуйкин
+  # company: Диасофт
+  # avatar: kokuykin.png
 
-force:
-  name: Максим Высоких
-  company: ФогСофт
-  twitter: force_net
-  avatar: force.png
+# stetsyuk:
+  # name: Станислав Стецюк
+  # company: Тензор Ярославль
+  # bio: Руководитель подразделения мобильной разработки
+  # avatar: stetsyuk.jpg
 
-dokuchaev:
-  name: Сергей Докучаев
-  avatar: sergey_dokucchaev.jpg
-  company: Тензор Ярославль
+# filatov:
+  # name: Александр Филатов
+  # company: Akvelon Inc.
+  # bio: Веб-разработчик в компании Akvelon, vendor в Microsoft
+  # avatar: filatov.png
+  # twitter: greybax
 
-luss:
-  name: Владимир Лусс
-  avatar: luss.jpg
-  company: Тензор Ярославль
+# force:
+  # name: Максим Высоких
+  # company: ФогСофт
+  # twitter: force_net
+  # avatar: force.png
+
+# dokuchaev:
+  # name: Сергей Докучаев
+  # avatar: sergey_dokucchaev.jpg
+  # company: Тензор Ярославль
+
+# luss:
+  # name: Владимир Лусс
+  # avatar: luss.jpg
+  # company: Тензор Ярославль
