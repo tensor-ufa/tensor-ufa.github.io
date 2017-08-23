@@ -12,7 +12,7 @@ talk: meetup_u2
 date: 2016-06-06
 comments: true
 share: true
-announce: true 
+announce: false 
 video: 
 slides: 
 ---
