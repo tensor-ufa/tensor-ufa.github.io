@@ -9,7 +9,7 @@ tags: [mobile]
 image:
   feature:
 talk: meetup_u2
-date: 2016-06-06
+date: 2016-10-06
 comments: true
 share: true
 announce: false 
