@@ -36,11 +36,11 @@ gataullina_galiya:
   avatar: galiya.jpg
   company: Тензор Уфа
   
-kochetovskiy_artem:
-  name: Кочетовский Артем
-  email: an.kochetovskiy@tensor.ru
-  avatar: artem.png
-  company: Тензор Уфа
+# kochetovskiy_artem:
+  # name: Кочетовский Артем
+  # email: an.kochetovskiy@tensor.ru
+  # avatar: artem.png
+  # company: Тензор Уфа
 
 vagurov_evgeniy:
   name: Вагуров Евгений
