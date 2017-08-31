@@ -31,8 +31,8 @@ comments: true
     <ul class="post-list">
     {% for post in site.categories.talks %}
       {% if post.author contains authorId %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}.</a></li> 
-      {% endif %}  
+      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
     {% endfor %}
     </ul>
   </li>
