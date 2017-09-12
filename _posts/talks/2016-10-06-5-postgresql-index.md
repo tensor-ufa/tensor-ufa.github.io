@@ -23,3 +23,6 @@ slides:
 * Создание и управление индексами
 * Мониторинг индексов
 * Полезные советы
+
+**Видео:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-5_U5liPNTU" frameborder="0" allowfullscreen></iframe>

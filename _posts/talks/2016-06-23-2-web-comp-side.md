@@ -37,3 +37,6 @@ slides:
 **Взаимодействие компонентов между собой**
 
 * Влияние на компоненты, обращение к компоненту, события и шина событий
+
+**Видео:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PSBWQMwcXUY" frameborder="0" allowfullscreen></iframe>
