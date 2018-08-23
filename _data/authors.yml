@@ -42,6 +42,24 @@ gataullina_galiya:
   # avatar: artem.png
   # company: Тензор Уфа
 
+zuev_dmitry:
+  name: Зуев Дмитрий
+  email: dv.zuev@tensor.ru
+  avatar: zuev.png
+  company: Тензор Ярославль
+  
+izygin_nikita:
+  name: Изыгин Никита
+  email: nr.izygin@tensor.ru
+  avatar: izygin.png
+  company: Тензор Ярославль
+  
+faizrahmanov_zagir:
+  name: Файзрахманов Загир
+  email: zr.fayzrahmanov@tensor.ru
+  avatar: zagir.png
+  company: Тензор Уфа  
+  
 vagurov_evgeniy:
   name: Вагуров Евгений
   email: es.vagurov@tensor.ru
