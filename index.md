@@ -11,7 +11,7 @@ comments: true
 
 И, конечно, как без подарков! Тебя ждет сюрприз – праздничная лотерея с памятными призами!
 
-**[Регистрируйся]**[register] и приходи – мы ждем тебя!
+[**Регистрируйся**][register] и приходи – мы ждем тебя!
 
 
 Доклады
@@ -55,7 +55,7 @@ comments: true
 Контактные телефоны: +7 909 249 11 00, Мария
 
 
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A9d2543421718b1f17a67800b32bcf55128119cb491f29743f021b6a978dbe0cc&amp;width=834&amp;height=720&amp;lang=ru_RU&amp;scroll=true"></script>
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=07cEbZAuz88f1MHBau5pUv2p-tKHd60J&width=630&height=630&lang=ru_RU&sourceType=constructor&scroll=true"></script>
 
 <!--
 <ul class="post-list">
