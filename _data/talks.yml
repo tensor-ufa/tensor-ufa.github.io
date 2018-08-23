@@ -8,4 +8,8 @@ meetup_u2:
   
 meetup_u3:
   date: 2017-09-14
-  finished:    
+  finished: true
+  
+meetup_u4:
+  date: 2018-09-13
+  finished: true
