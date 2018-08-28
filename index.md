@@ -53,7 +53,7 @@ comments: true
 
 Места для парковки автомобилей указаны на карте зеленым цветом.
 
-Контактные телефоны: +7 909 249 11 00, Мария
+Контактные телефоны: +7(960) 800-08-08 Дарья
 
 
 <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=07cEbZAuz88f1MHBau5pUv2p-tKHd60J&width=750&height=750&lang=ru_RU&sourceType=constructor&scroll=true"></script>
